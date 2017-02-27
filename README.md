@@ -1,1 +1,1 @@
-Code to understand VulkanAPI via turoial on https://vulkan-tutorial.com
+Code to understand VulkanAPI via tutorial on https://vulkan-tutorial.com
