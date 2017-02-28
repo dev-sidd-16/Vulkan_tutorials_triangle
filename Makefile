@@ -11,6 +11,9 @@ VulkanTest: main.cpp
 test:	VulkanTest
 	LD_LIBRARY_PATH=$(VULKAN_SDK_PATH)/lib VK_LAYER_PATH=$(VULKAN_SDK_PATH)/etc/explicit_layer.d	./VulkanTest
 
+debug:	VulkanTest
+	LD_LIBRARY_PATH=$(VULKAN_SDK_PATH)/lib VK_LAYER_PATH=$(VULKAN_SDK_PATH)/etc/explicit_layer.d	gdb VulkanTest
+
 clean:
 	rm -f VulkanTest
 
