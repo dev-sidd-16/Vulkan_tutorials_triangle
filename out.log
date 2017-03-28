@@ -1,0 +1,1320 @@
+
+==============NVSMI LOG==============
+
+Timestamp                           : Tue Mar 21 15:30:54 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    Product Name                    : GeForce 840M
+    Product Brand                   : GeForce
+    Display Mode                    : Disabled
+    Display Active                  : Disabled
+    Persistence Mode                : Disabled
+    Accounting Mode                 : Disabled
+    Accounting Mode Buffer Size     : 1920
+    Driver Model
+        Current                     : N/A
+        Pending                     : N/A
+    Serial Number                   : N/A
+    GPU UUID                        : GPU-d7b32bb4-d650-5c7b-e399-4b5291a952e5
+    Minor Number                    : 0
+    VBIOS Version                   : 82.08.14.00.64
+    MultiGPU Board                  : No
+    Board ID                        : 0xa00
+    GPU Part Number                 : N/A
+    Inforom Version
+        Image Version               : N/A
+        OEM Object                  : N/A
+        ECC Object                  : N/A
+        Power Management Object     : N/A
+    GPU Operation Mode
+        Current                     : N/A
+        Pending                     : N/A
+    GPU Virtualization Mode
+        Virtualization mode         : None
+    PCI
+        Bus                         : 0x0A
+        Device                      : 0x00
+        Domain                      : 0x0000
+        Device Id                   : 0x134110DE
+        Bus Id                      : 0000:0A:00.0
+        Sub System Id               : 0x2281103C
+        GPU Link Info
+            PCIe Generation
+                Max                 : 2
+                Current             : 2
+            Link Width
+                Max                 : 4x
+                Current             : 4x
+        Bridge Chip
+            Type                    : N/A
+            Firmware                : N/A
+        Replays since reset         : 0
+        Tx Throughput               : 933000 KB/s
+        Rx Throughput               : 27000 KB/s
+    Fan Speed                       : N/A
+    Performance State               : P0
+    Clocks Throttle Reasons
+        Idle                        : Not Active
+        Applications Clocks Setting : Not Active
+        SW Power Cap                : Not Active
+        HW Slowdown                 : Not Active
+        Sync Boost                  : Not Active
+        Unknown                     : Not Active
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 476 MiB
+        Free                        : 1526 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Compute Mode                    : Default
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 78 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    Ecc Mode
+        Current                     : N/A
+        Pending                     : N/A
+    ECC Errors
+        Volatile
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+        Aggregate
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+    Retired Pages
+        Single Bit ECC              : N/A
+        Double Bit ECC              : N/A
+        Pending                     : N/A
+    Temperature
+        GPU Current Temp            : 46 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Power Readings
+        Power Management            : N/A
+        Power Draw                  : N/A
+        Power Limit                 : N/A
+        Default Power Limit         : N/A
+        Enforced Power Limit        : N/A
+        Min Power Limit             : N/A
+        Max Power Limit             : N/A
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1126
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 273 MiB
+        Process ID                  : 2228
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 191 MiB
+        Process ID                  : 5323
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Tue Mar 21 15:30:55 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    Product Name                    : GeForce 840M
+    Product Brand                   : GeForce
+    Display Mode                    : Disabled
+    Display Active                  : Disabled
+    Persistence Mode                : Disabled
+    Accounting Mode                 : Disabled
+    Accounting Mode Buffer Size     : 1920
+    Driver Model
+        Current                     : N/A
+        Pending                     : N/A
+    Serial Number                   : N/A
+    GPU UUID                        : GPU-d7b32bb4-d650-5c7b-e399-4b5291a952e5
+    Minor Number                    : 0
+    VBIOS Version                   : 82.08.14.00.64
+    MultiGPU Board                  : No
+    Board ID                        : 0xa00
+    GPU Part Number                 : N/A
+    Inforom Version
+        Image Version               : N/A
+        OEM Object                  : N/A
+        ECC Object                  : N/A
+        Power Management Object     : N/A
+    GPU Operation Mode
+        Current                     : N/A
+        Pending                     : N/A
+    GPU Virtualization Mode
+        Virtualization mode         : None
+    PCI
+        Bus                         : 0x0A
+        Device                      : 0x00
+        Domain                      : 0x0000
+        Device Id                   : 0x134110DE
+        Bus Id                      : 0000:0A:00.0
+        Sub System Id               : 0x2281103C
+        GPU Link Info
+            PCIe Generation
+                Max                 : 2
+                Current             : 2
+            Link Width
+                Max                 : 4x
+                Current             : 4x
+        Bridge Chip
+            Type                    : N/A
+            Firmware                : N/A
+        Replays since reset         : 0
+        Tx Throughput               : 1120000 KB/s
+        Rx Throughput               : 35000 KB/s
+    Fan Speed                       : N/A
+    Performance State               : P0
+    Clocks Throttle Reasons
+        Idle                        : Not Active
+        Applications Clocks Setting : Not Active
+        SW Power Cap                : Not Active
+        HW Slowdown                 : Not Active
+        Sync Boost                  : Not Active
+        Unknown                     : Not Active
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 476 MiB
+        Free                        : 1526 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Compute Mode                    : Default
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 80 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    Ecc Mode
+        Current                     : N/A
+        Pending                     : N/A
+    ECC Errors
+        Volatile
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+        Aggregate
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+    Retired Pages
+        Single Bit ECC              : N/A
+        Double Bit ECC              : N/A
+        Pending                     : N/A
+    Temperature
+        GPU Current Temp            : 46 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Power Readings
+        Power Management            : N/A
+        Power Draw                  : N/A
+        Power Limit                 : N/A
+        Default Power Limit         : N/A
+        Enforced Power Limit        : N/A
+        Min Power Limit             : N/A
+        Max Power Limit             : N/A
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1126
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 273 MiB
+        Process ID                  : 2228
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 191 MiB
+        Process ID                  : 5323
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Tue Mar 21 15:30:56 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    Product Name                    : GeForce 840M
+    Product Brand                   : GeForce
+    Display Mode                    : Disabled
+    Display Active                  : Disabled
+    Persistence Mode                : Disabled
+    Accounting Mode                 : Disabled
+    Accounting Mode Buffer Size     : 1920
+    Driver Model
+        Current                     : N/A
+        Pending                     : N/A
+    Serial Number                   : N/A
+    GPU UUID                        : GPU-d7b32bb4-d650-5c7b-e399-4b5291a952e5
+    Minor Number                    : 0
+    VBIOS Version                   : 82.08.14.00.64
+    MultiGPU Board                  : No
+    Board ID                        : 0xa00
+    GPU Part Number                 : N/A
+    Inforom Version
+        Image Version               : N/A
+        OEM Object                  : N/A
+        ECC Object                  : N/A
+        Power Management Object     : N/A
+    GPU Operation Mode
+        Current                     : N/A
+        Pending                     : N/A
+    GPU Virtualization Mode
+        Virtualization mode         : None
+    PCI
+        Bus                         : 0x0A
+        Device                      : 0x00
+        Domain                      : 0x0000
+        Device Id                   : 0x134110DE
+        Bus Id                      : 0000:0A:00.0
+        Sub System Id               : 0x2281103C
+        GPU Link Info
+            PCIe Generation
+                Max                 : 2
+                Current             : 2
+            Link Width
+                Max                 : 4x
+                Current             : 4x
+        Bridge Chip
+            Type                    : N/A
+            Firmware                : N/A
+        Replays since reset         : 0
+        Tx Throughput               : 745000 KB/s
+        Rx Throughput               : 27000 KB/s
+    Fan Speed                       : N/A
+    Performance State               : P0
+    Clocks Throttle Reasons
+        Idle                        : Not Active
+        Applications Clocks Setting : Not Active
+        SW Power Cap                : Not Active
+        HW Slowdown                 : Not Active
+        Sync Boost                  : Not Active
+        Unknown                     : Not Active
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 476 MiB
+        Free                        : 1526 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Compute Mode                    : Default
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 79 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    Ecc Mode
+        Current                     : N/A
+        Pending                     : N/A
+    ECC Errors
+        Volatile
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+        Aggregate
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+    Retired Pages
+        Single Bit ECC              : N/A
+        Double Bit ECC              : N/A
+        Pending                     : N/A
+    Temperature
+        GPU Current Temp            : 46 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Power Readings
+        Power Management            : N/A
+        Power Draw                  : N/A
+        Power Limit                 : N/A
+        Default Power Limit         : N/A
+        Enforced Power Limit        : N/A
+        Min Power Limit             : N/A
+        Max Power Limit             : N/A
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1126
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 273 MiB
+        Process ID                  : 2228
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 191 MiB
+        Process ID                  : 5323
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Tue Mar 21 15:30:57 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    Product Name                    : GeForce 840M
+    Product Brand                   : GeForce
+    Display Mode                    : Disabled
+    Display Active                  : Disabled
+    Persistence Mode                : Disabled
+    Accounting Mode                 : Disabled
+    Accounting Mode Buffer Size     : 1920
+    Driver Model
+        Current                     : N/A
+        Pending                     : N/A
+    Serial Number                   : N/A
+    GPU UUID                        : GPU-d7b32bb4-d650-5c7b-e399-4b5291a952e5
+    Minor Number                    : 0
+    VBIOS Version                   : 82.08.14.00.64
+    MultiGPU Board                  : No
+    Board ID                        : 0xa00
+    GPU Part Number                 : N/A
+    Inforom Version
+        Image Version               : N/A
+        OEM Object                  : N/A
+        ECC Object                  : N/A
+        Power Management Object     : N/A
+    GPU Operation Mode
+        Current                     : N/A
+        Pending                     : N/A
+    GPU Virtualization Mode
+        Virtualization mode         : None
+    PCI
+        Bus                         : 0x0A
+        Device                      : 0x00
+        Domain                      : 0x0000
+        Device Id                   : 0x134110DE
+        Bus Id                      : 0000:0A:00.0
+        Sub System Id               : 0x2281103C
+        GPU Link Info
+            PCIe Generation
+                Max                 : 2
+                Current             : 2
+            Link Width
+                Max                 : 4x
+                Current             : 4x
+        Bridge Chip
+            Type                    : N/A
+            Firmware                : N/A
+        Replays since reset         : 0
+        Tx Throughput               : 1055000 KB/s
+        Rx Throughput               : 28000 KB/s
+    Fan Speed                       : N/A
+    Performance State               : P0
+    Clocks Throttle Reasons
+        Idle                        : Not Active
+        Applications Clocks Setting : Not Active
+        SW Power Cap                : Not Active
+        HW Slowdown                 : Not Active
+        Sync Boost                  : Not Active
+        Unknown                     : Not Active
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 476 MiB
+        Free                        : 1526 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Compute Mode                    : Default
+    Utilization
+        Gpu                         : 95 %
+        Memory                      : 80 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    Ecc Mode
+        Current                     : N/A
+        Pending                     : N/A
+    ECC Errors
+        Volatile
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+        Aggregate
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+    Retired Pages
+        Single Bit ECC              : N/A
+        Double Bit ECC              : N/A
+        Pending                     : N/A
+    Temperature
+        GPU Current Temp            : 46 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Power Readings
+        Power Management            : N/A
+        Power Draw                  : N/A
+        Power Limit                 : N/A
+        Default Power Limit         : N/A
+        Enforced Power Limit        : N/A
+        Min Power Limit             : N/A
+        Max Power Limit             : N/A
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1126
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 273 MiB
+        Process ID                  : 2228
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 191 MiB
+        Process ID                  : 5323
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Tue Mar 21 15:30:58 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    Product Name                    : GeForce 840M
+    Product Brand                   : GeForce
+    Display Mode                    : Disabled
+    Display Active                  : Disabled
+    Persistence Mode                : Disabled
+    Accounting Mode                 : Disabled
+    Accounting Mode Buffer Size     : 1920
+    Driver Model
+        Current                     : N/A
+        Pending                     : N/A
+    Serial Number                   : N/A
+    GPU UUID                        : GPU-d7b32bb4-d650-5c7b-e399-4b5291a952e5
+    Minor Number                    : 0
+    VBIOS Version                   : 82.08.14.00.64
+    MultiGPU Board                  : No
+    Board ID                        : 0xa00
+    GPU Part Number                 : N/A
+    Inforom Version
+        Image Version               : N/A
+        OEM Object                  : N/A
+        ECC Object                  : N/A
+        Power Management Object     : N/A
+    GPU Operation Mode
+        Current                     : N/A
+        Pending                     : N/A
+    GPU Virtualization Mode
+        Virtualization mode         : None
+    PCI
+        Bus                         : 0x0A
+        Device                      : 0x00
+        Domain                      : 0x0000
+        Device Id                   : 0x134110DE
+        Bus Id                      : 0000:0A:00.0
+        Sub System Id               : 0x2281103C
+        GPU Link Info
+            PCIe Generation
+                Max                 : 2
+                Current             : 2
+            Link Width
+                Max                 : 4x
+                Current             : 4x
+        Bridge Chip
+            Type                    : N/A
+            Firmware                : N/A
+        Replays since reset         : 0
+        Tx Throughput               : 781000 KB/s
+        Rx Throughput               : 28000 KB/s
+    Fan Speed                       : N/A
+    Performance State               : P0
+    Clocks Throttle Reasons
+        Idle                        : Not Active
+        Applications Clocks Setting : Not Active
+        SW Power Cap                : Not Active
+        HW Slowdown                 : Not Active
+        Sync Boost                  : Not Active
+        Unknown                     : Not Active
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 476 MiB
+        Free                        : 1526 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Compute Mode                    : Default
+    Utilization
+        Gpu                         : 97 %
+        Memory                      : 78 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    Ecc Mode
+        Current                     : N/A
+        Pending                     : N/A
+    ECC Errors
+        Volatile
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+        Aggregate
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+    Retired Pages
+        Single Bit ECC              : N/A
+        Double Bit ECC              : N/A
+        Pending                     : N/A
+    Temperature
+        GPU Current Temp            : 46 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Power Readings
+        Power Management            : N/A
+        Power Draw                  : N/A
+        Power Limit                 : N/A
+        Default Power Limit         : N/A
+        Enforced Power Limit        : N/A
+        Min Power Limit             : N/A
+        Max Power Limit             : N/A
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1126
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 273 MiB
+        Process ID                  : 2228
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 191 MiB
+        Process ID                  : 5323
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Tue Mar 21 15:30:59 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    Product Name                    : GeForce 840M
+    Product Brand                   : GeForce
+    Display Mode                    : Disabled
+    Display Active                  : Disabled
+    Persistence Mode                : Disabled
+    Accounting Mode                 : Disabled
+    Accounting Mode Buffer Size     : 1920
+    Driver Model
+        Current                     : N/A
+        Pending                     : N/A
+    Serial Number                   : N/A
+    GPU UUID                        : GPU-d7b32bb4-d650-5c7b-e399-4b5291a952e5
+    Minor Number                    : 0
+    VBIOS Version                   : 82.08.14.00.64
+    MultiGPU Board                  : No
+    Board ID                        : 0xa00
+    GPU Part Number                 : N/A
+    Inforom Version
+        Image Version               : N/A
+        OEM Object                  : N/A
+        ECC Object                  : N/A
+        Power Management Object     : N/A
+    GPU Operation Mode
+        Current                     : N/A
+        Pending                     : N/A
+    GPU Virtualization Mode
+        Virtualization mode         : None
+    PCI
+        Bus                         : 0x0A
+        Device                      : 0x00
+        Domain                      : 0x0000
+        Device Id                   : 0x134110DE
+        Bus Id                      : 0000:0A:00.0
+        Sub System Id               : 0x2281103C
+        GPU Link Info
+            PCIe Generation
+                Max                 : 2
+                Current             : 2
+            Link Width
+                Max                 : 4x
+                Current             : 4x
+        Bridge Chip
+            Type                    : N/A
+            Firmware                : N/A
+        Replays since reset         : 0
+        Tx Throughput               : 802000 KB/s
+        Rx Throughput               : 27000 KB/s
+    Fan Speed                       : N/A
+    Performance State               : P0
+    Clocks Throttle Reasons
+        Idle                        : Not Active
+        Applications Clocks Setting : Not Active
+        SW Power Cap                : Not Active
+        HW Slowdown                 : Not Active
+        Sync Boost                  : Not Active
+        Unknown                     : Not Active
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 476 MiB
+        Free                        : 1526 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Compute Mode                    : Default
+    Utilization
+        Gpu                         : 95 %
+        Memory                      : 81 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    Ecc Mode
+        Current                     : N/A
+        Pending                     : N/A
+    ECC Errors
+        Volatile
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+        Aggregate
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+    Retired Pages
+        Single Bit ECC              : N/A
+        Double Bit ECC              : N/A
+        Pending                     : N/A
+    Temperature
+        GPU Current Temp            : 46 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Power Readings
+        Power Management            : N/A
+        Power Draw                  : N/A
+        Power Limit                 : N/A
+        Default Power Limit         : N/A
+        Enforced Power Limit        : N/A
+        Min Power Limit             : N/A
+        Max Power Limit             : N/A
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1126
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 273 MiB
+        Process ID                  : 2228
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 191 MiB
+        Process ID                  : 5323
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Tue Mar 21 15:31:00 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    Product Name                    : GeForce 840M
+    Product Brand                   : GeForce
+    Display Mode                    : Disabled
+    Display Active                  : Disabled
+    Persistence Mode                : Disabled
+    Accounting Mode                 : Disabled
+    Accounting Mode Buffer Size     : 1920
+    Driver Model
+        Current                     : N/A
+        Pending                     : N/A
+    Serial Number                   : N/A
+    GPU UUID                        : GPU-d7b32bb4-d650-5c7b-e399-4b5291a952e5
+    Minor Number                    : 0
+    VBIOS Version                   : 82.08.14.00.64
+    MultiGPU Board                  : No
+    Board ID                        : 0xa00
+    GPU Part Number                 : N/A
+    Inforom Version
+        Image Version               : N/A
+        OEM Object                  : N/A
+        ECC Object                  : N/A
+        Power Management Object     : N/A
+    GPU Operation Mode
+        Current                     : N/A
+        Pending                     : N/A
+    GPU Virtualization Mode
+        Virtualization mode         : None
+    PCI
+        Bus                         : 0x0A
+        Device                      : 0x00
+        Domain                      : 0x0000
+        Device Id                   : 0x134110DE
+        Bus Id                      : 0000:0A:00.0
+        Sub System Id               : 0x2281103C
+        GPU Link Info
+            PCIe Generation
+                Max                 : 2
+                Current             : 2
+            Link Width
+                Max                 : 4x
+                Current             : 4x
+        Bridge Chip
+            Type                    : N/A
+            Firmware                : N/A
+        Replays since reset         : 0
+        Tx Throughput               : 1123000 KB/s
+        Rx Throughput               : 34000 KB/s
+    Fan Speed                       : N/A
+    Performance State               : P0
+    Clocks Throttle Reasons
+        Idle                        : Not Active
+        Applications Clocks Setting : Not Active
+        SW Power Cap                : Not Active
+        HW Slowdown                 : Not Active
+        Sync Boost                  : Not Active
+        Unknown                     : Not Active
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 476 MiB
+        Free                        : 1526 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Compute Mode                    : Default
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 80 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    Ecc Mode
+        Current                     : N/A
+        Pending                     : N/A
+    ECC Errors
+        Volatile
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+        Aggregate
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+    Retired Pages
+        Single Bit ECC              : N/A
+        Double Bit ECC              : N/A
+        Pending                     : N/A
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Power Readings
+        Power Management            : N/A
+        Power Draw                  : N/A
+        Power Limit                 : N/A
+        Default Power Limit         : N/A
+        Enforced Power Limit        : N/A
+        Min Power Limit             : N/A
+        Max Power Limit             : N/A
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1126
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 273 MiB
+        Process ID                  : 2228
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 191 MiB
+        Process ID                  : 5323
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Tue Mar 21 15:31:02 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    Product Name                    : GeForce 840M
+    Product Brand                   : GeForce
+    Display Mode                    : Disabled
+    Display Active                  : Disabled
+    Persistence Mode                : Disabled
+    Accounting Mode                 : Disabled
+    Accounting Mode Buffer Size     : 1920
+    Driver Model
+        Current                     : N/A
+        Pending                     : N/A
+    Serial Number                   : N/A
+    GPU UUID                        : GPU-d7b32bb4-d650-5c7b-e399-4b5291a952e5
+    Minor Number                    : 0
+    VBIOS Version                   : 82.08.14.00.64
+    MultiGPU Board                  : No
+    Board ID                        : 0xa00
+    GPU Part Number                 : N/A
+    Inforom Version
+        Image Version               : N/A
+        OEM Object                  : N/A
+        ECC Object                  : N/A
+        Power Management Object     : N/A
+    GPU Operation Mode
+        Current                     : N/A
+        Pending                     : N/A
+    GPU Virtualization Mode
+        Virtualization mode         : None
+    PCI
+        Bus                         : 0x0A
+        Device                      : 0x00
+        Domain                      : 0x0000
+        Device Id                   : 0x134110DE
+        Bus Id                      : 0000:0A:00.0
+        Sub System Id               : 0x2281103C
+        GPU Link Info
+            PCIe Generation
+                Max                 : 2
+                Current             : 2
+            Link Width
+                Max                 : 4x
+                Current             : 4x
+        Bridge Chip
+            Type                    : N/A
+            Firmware                : N/A
+        Replays since reset         : 0
+        Tx Throughput               : 744000 KB/s
+        Rx Throughput               : 26000 KB/s
+    Fan Speed                       : N/A
+    Performance State               : P0
+    Clocks Throttle Reasons
+        Idle                        : Not Active
+        Applications Clocks Setting : Not Active
+        SW Power Cap                : Not Active
+        HW Slowdown                 : Not Active
+        Sync Boost                  : Not Active
+        Unknown                     : Not Active
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 476 MiB
+        Free                        : 1526 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Compute Mode                    : Default
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 79 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    Ecc Mode
+        Current                     : N/A
+        Pending                     : N/A
+    ECC Errors
+        Volatile
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+        Aggregate
+            Single Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+            Double Bit            
+                Device Memory       : N/A
+                Register File       : N/A
+                L1 Cache            : N/A
+                L2 Cache            : N/A
+                Texture Memory      : N/A
+                Texture Shared      : N/A
+                Total               : N/A
+    Retired Pages
+        Single Bit ECC              : N/A
+        Double Bit ECC              : N/A
+        Pending                     : N/A
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Power Readings
+        Power Management            : N/A
+        Power Draw                  : N/A
+        Power Limit                 : N/A
+        Default Power Limit         : N/A
+        Enforced Power Limit        : N/A
+        Min Power Limit             : N/A
+        Max Power Limit             : N/A
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1126
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 273 MiB
+        Process ID                  : 2228
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 191 MiB
+        Process ID                  : 5323
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
