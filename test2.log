@@ -1,0 +1,4098 @@
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:14 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 451 MiB
+        Free                        : 1551 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 29 %
+        Min                         : 0 %
+        Avg                         : 1 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 15 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 135 MHz
+        SM                          : 135 MHz
+        Memory                      : 405 MHz
+        Video                       : 135 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 684.60 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 586 MHz
+    Memory Clock Samples
+        Duration                    : 684.60 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 785 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:15 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 67 %
+        Memory                      : 37 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 66 %
+        Min                         : 0 %
+        Avg                         : 2 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 43 %
+        Min                         : 0 %
+        Avg                         : 1 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 562 MHz
+        SM                          : 562 MHz
+        Memory                      : 900 MHz
+        Video                       : 550 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 749.46 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 541 MHz
+    Memory Clock Samples
+        Duration                    : 749.46 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:16 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 4 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 2 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 562 MHz
+        SM                          : 562 MHz
+        Memory                      : 900 MHz
+        Video                       : 550 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 749.46 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 541 MHz
+    Memory Clock Samples
+        Duration                    : 749.46 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:17 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 7 %
+        Memory                      : 3 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 4 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 2 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 562 MHz
+        SM                          : 562 MHz
+        Memory                      : 900 MHz
+        Video                       : 550 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 749.46 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 541 MHz
+    Memory Clock Samples
+        Duration                    : 749.46 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:19 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 14 %
+        Memory                      : 8 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 4 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 2 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 405 MHz
+        SM                          : 405 MHz
+        Memory                      : 800 MHz
+        Video                       : 396 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 712.06 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 548 MHz
+    Memory Clock Samples
+        Duration                    : 712.06 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 745 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:20 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 5 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 2 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 405 MHz
+        SM                          : 405 MHz
+        Memory                      : 800 MHz
+        Video                       : 396 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 712.06 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 548 MHz
+    Memory Clock Samples
+        Duration                    : 712.06 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 745 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:21 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 5 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 3 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 405 MHz
+        SM                          : 405 MHz
+        Memory                      : 800 MHz
+        Video                       : 396 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 712.06 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 548 MHz
+    Memory Clock Samples
+        Duration                    : 712.06 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 745 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:22 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 28 %
+        Memory                      : 15 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 6 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 3 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 160 MHz
+        SM                          : 160 MHz
+        Memory                      : 405 MHz
+        Video                       : 157 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 712.06 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 547 MHz
+    Memory Clock Samples
+        Duration                    : 712.06 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 745 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:23 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 6 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 3 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 160 MHz
+        SM                          : 160 MHz
+        Memory                      : 405 MHz
+        Video                       : 157 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 712.06 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 547 MHz
+    Memory Clock Samples
+        Duration                    : 712.06 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 745 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:24 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 7 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 4 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 135 MHz
+        SM                          : 135 MHz
+        Memory                      : 405 MHz
+        Video                       : 135 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 546 MHz
+    Memory Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 744 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:25 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 8 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 4 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 135 MHz
+        SM                          : 135 MHz
+        Memory                      : 405 MHz
+        Video                       : 135 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 546 MHz
+    Memory Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 744 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:26 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 25 %
+        Memory                      : 15 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 9 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 5 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 135 MHz
+        SM                          : 135 MHz
+        Memory                      : 405 MHz
+        Video                       : 135 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 546 MHz
+    Memory Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 744 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:27 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 30 %
+        Memory                      : 15 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 9 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 5 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 135 MHz
+        SM                          : 135 MHz
+        Memory                      : 405 MHz
+        Video                       : 135 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 546 MHz
+    Memory Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 744 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:28 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 15 %
+        Memory                      : 8 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 10 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 5 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 135 MHz
+        SM                          : 135 MHz
+        Memory                      : 405 MHz
+        Video                       : 135 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 546 MHz
+    Memory Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 744 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:29 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 454 MiB
+        Free                        : 1548 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 15 %
+        Memory                      : 8 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 10 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 79 %
+        Min                         : 0 %
+        Avg                         : 6 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 42 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 135 MHz
+        SM                          : 135 MHz
+        Memory                      : 405 MHz
+        Video                       : 135 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 546 MHz
+    Memory Clock Samples
+        Duration                    : 714.73 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 744 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 195 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:30 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 97 %
+        Memory                      : 78 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 14 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 9 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 44 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:31 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 95 %
+        Memory                      : 78 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 99 %
+        Min                         : 0 %
+        Avg                         : 19 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 13 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 45 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:32 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 77 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 23 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 17 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 46 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:33 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 94 %
+        Memory                      : 77 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 28 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 21 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 46 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:34 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 77 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 34 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 26 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 46 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:36 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 95 %
+        Memory                      : 78 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 40 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 30 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:37 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 95 %
+        Memory                      : 79 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 45 %
+    Memory Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 36 %
+    ENC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.38 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:38 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 95 %
+        Memory                      : 79 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 51 %
+    Memory Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 40 %
+    ENC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:39 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 78 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 56 %
+    Memory Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 45 %
+    ENC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 48 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:40 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 76 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 62 %
+    Memory Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 49 %
+    ENC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 48 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:41 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 95 %
+        Memory                      : 79 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 67 %
+    Memory Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 54 %
+    ENC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 48 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:42 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 77 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 73 %
+    Memory Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 59 %
+    ENC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 48 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:43 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 77 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 78 %
+    Memory Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 63 %
+    ENC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 48 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:44 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 467 MiB
+        Free                        : 1535 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 2 MiB
+        Free                        : 254 MiB
+    Utilization
+        Gpu                         : 96 %
+        Memory                      : 78 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 84 %
+    Memory Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 68 %
+    ENC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 49 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 261 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+        Process ID                  : 8427
+            Type                    : C+G
+            Name                    : ./VulkanTest
+            Used GPU Memory         : 11 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:45 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 6 %
+        Memory                      : 3 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 86 %
+    Memory Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 100 %
+        Min                         : 0 %
+        Avg                         : 70 %
+    ENC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.37 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:46 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 14 %
+        Memory                      : 4 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 85 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 68 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:47 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 19 %
+        Memory                      : 10 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 80 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 64 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:48 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 74 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 59 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:49 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 6 %
+        Memory                      : 3 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 69 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 55 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:50 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 6 %
+        Memory                      : 3 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 62 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 50 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:52 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 7 %
+        Memory                      : 3 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 57 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 45 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:53 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 7 %
+        Memory                      : 3 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 52 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 41 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:54 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 7 %
+        Memory                      : 3 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 46 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 36 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:55 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 39 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 31 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:56 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 455 MiB
+        Free                        : 1547 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 34 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 26 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 196 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:57 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 451 MiB
+        Free                        : 1551 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 0 %
+        Memory                      : 0 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 28 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 21 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:58 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 451 MiB
+        Free                        : 1551 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 1 %
+        Memory                      : 1 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 22 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 16 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
+
+==============NVSMI LOG==============
+
+Timestamp                           : Wed Apr  5 16:23:59 2017
+Driver Version                      : 367.57
+
+Attached GPUs                       : 1
+GPU 0000:0A:00.0
+    FB Memory Usage
+        Total                       : 2002 MiB
+        Used                        : 451 MiB
+        Free                        : 1551 MiB
+    BAR1 Memory Usage
+        Total                       : 256 MiB
+        Used                        : 1 MiB
+        Free                        : 255 MiB
+    Utilization
+        Gpu                         : 1 %
+        Memory                      : 1 %
+        Encoder                     : N/A
+        Decoder                     : N/A
+    GPU Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 96 %
+        Min                         : 0 %
+        Avg                         : 16 %
+    Memory Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 80 %
+        Min                         : 0 %
+        Avg                         : 11 %
+    ENC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    DEC Utilization Samples
+        Duration                    : 16.36 sec
+        Number of Samples           : 99
+        Max                         : 0 %
+        Min                         : 0 %
+        Avg                         : 0 %
+    Temperature
+        GPU Current Temp            : 47 C
+        GPU Shutdown Temp           : 99 C
+        GPU Slowdown Temp           : 94 C
+    Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Default Applications Clocks
+        Graphics                    : N/A
+        Memory                      : N/A
+    Max Clocks
+        Graphics                    : 1124 MHz
+        SM                          : 1124 MHz
+        Memory                      : 900 MHz
+        Video                       : 1101 MHz
+    SM Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 1124 MHz
+        Min                         : 135 MHz
+        Avg                         : 553 MHz
+    Memory Clock Samples
+        Duration                    : 715.74 sec
+        Number of Samples           : 100
+        Max                         : 900 MHz
+        Min                         : 405 MHz
+        Avg                         : 748 MHz
+    Clock Policy
+        Auto Boost                  : N/A
+        Auto Boost Default          : N/A
+    Processes
+        Process ID                  : 1195
+            Type                    : G
+            Name                    : /usr/bin/X
+            Used GPU Memory         : 257 MiB
+        Process ID                  : 2188
+            Type                    : G
+            Name                    : compiz
+            Used GPU Memory         : 192 MiB
+        Process ID                  : 2617
+            Type                    : G
+            Name                    : /usr/lib/firefox/firefox
+            Used GPU Memory         : 1 MiB
+
