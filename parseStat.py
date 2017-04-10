@@ -33,7 +33,8 @@ path = os.path.abspath('parsed')
 
 dirs = os.listdir(path)
 
-print dirs
+dirs.sort()
+# print dirs
 
 for directory in dirs:
 	newFName = 'parsed/'+directory
@@ -45,7 +46,18 @@ for directory in dirs:
 			print child.text
 		if child.tag == 'gpu':
 			for child1 in child:
-				print child1.tag,child1.attrib
+				#print child1.tag,child1.attrib
+				if child1.tag == 'pci':
+					for child2 in child1.findall('tx_util'):
+						print 'TX Throughput:', child2.text
+					for child2 in child1.findall('rx_util'):
+						print 'RX Throughput:', child2.text
+				if child1.tag == 'fb_memory_usage':
+					for child2 in child1.findall('used'):
+						print 'Total FB Memoru used:',child2.text
+				if child1.tag == 'clocks':
+					for child2 in child1.findall('graphics_clock'):
+						print 'Graphics Clock:', child2.text
 
 	print '======================'
 	raw_input()
